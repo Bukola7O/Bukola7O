@@ -1,7 +1,7 @@
-Mid Software Engineer
-Software Engineer with proficiency in building web applications using Java Spring Boot, SQL Databases, Docker, and frontend technologies like React js, Tailwind CSS etc.
+Hi there! I am
+Software Engineer with proficiency in building web applications using Java Spring Boot, SQL Databases, Docker, and frontend technologies like React JS, Tailwind CSS, etc.
 
-I thrive in innovative and collaborative environments, aiming to contribute to projects that make a meaningful impact. I'm committed to writing clean, efficient, and scalable code, with a focus on quality and best practices. I posses strong communication skills to drive projects forward, exceeding expectations and collaborating effectively with cross-functional teams.
+I thrive in innovative and collaborative environments, aiming to contribute to projects that make a meaningful impact. I'm committed to writing clean, efficient, scalable code, focusing on quality and best practices. I possess strong communication skills to drive projects forward, exceed expectations, and collaborate effectively with cross-functional teams.
 
 If you want to get in touch, find me at 'tunjioluwabukola@gmail.com'
 <div align=center>
